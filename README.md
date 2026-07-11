@@ -80,4 +80,3 @@ This repository is structured as a monorepo containing both the frontend applica
    ```bash
    npm run dev
    ```
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
