@@ -1,7 +1,7 @@
 # AceAI - AI-Powered Interview Prep Platform
 
 🚀 **Live Frontend:** [https://ace-interview-ui.vercel.app/](https://ace-interview-lvxf.vercel.app/)  
-⚙️ **Live Backend:** [https://web-production-01d6cc.up.railway.app/](=https://web-production-01d6cc.up.railway.app/)
+⚙️ **Live Backend:** [https://web-production-01d6cc.up.railway.app/](https://web-production-01d6cc.up.railway.app/)
 
 ---
 
